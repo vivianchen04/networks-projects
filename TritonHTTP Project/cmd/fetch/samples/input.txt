@@ -1,0 +1,5 @@
+GET /cat.jpg HTTP/1.1
+Host: website1
+Connection: close
+User-Agent: gotest
+
